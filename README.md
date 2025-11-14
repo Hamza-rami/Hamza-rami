@@ -2,8 +2,13 @@
  <h1> # This is Me </h1>
  Hello Dear 🤩 
   <h1>I'm Hamza</h1>
+ 
+👨‍💻 Student at [**42NETWORK**](https://www.42.fr) – [**1337**](https://www.1337.ma), Morocco
 
- 🌱 I’m currently learning in [**42NETWORK**](https://www.42.fr) in [**1337**](https://www.1337.ma) Morocco
+🌱 Learning C, C++, and Python while diving into algorithms, software projects, and coding challenges
+
+🚀 Coding enthusiast, problem solver, and always up for learning something new 😎
+
  Important Notice also that all My C projects are tested Only on macOS,
   don't panic if you get some undefined behaviors on other Operating Systems
   See u buddy, Have a nice life 😁😎
@@ -18,10 +23,15 @@
 
 ## Tech Stack :
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0F0B?style=for-the-badge&logo=python&logoColor=00FF88)
+![C++](https://img.shields.io/badge/C++-0A0F0B?style=for-the-badge&logo=cplusplus&logoColor=00FF88)
+![C](https://img.shields.io/badge/C-0A0F0B?style=for-the-badge&logo=c&logoColor=00FF88)
+
+
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-rami-b694ba317/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F0B?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/hamza-rami-b694ba317/)
+
 
 
 </div>
