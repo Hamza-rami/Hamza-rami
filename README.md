@@ -30,7 +30,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F0B?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/hamza-rami-b694ba317/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F0B?style=for-the-badge&logo=linkedin&logoColor=00FF88)]((https://www.linkedin.com/in/hrami/))
 
 
 
